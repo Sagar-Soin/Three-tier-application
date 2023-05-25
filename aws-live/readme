@@ -1,5 +1,5 @@
 sudo apt-get update
-# For Sql-client
+# For Sql-client tESTING 123
 sudo apt-get install mysql-client
 
 # For python and related frameworks
